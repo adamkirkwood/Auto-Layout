@@ -157,6 +157,7 @@
                    ],
     },
     "identifier" : "com.animaapp.stc-sketch-plugin",
+    "appcast": "https://api.sketchpacks.com/v1/plugins/com.animaapp.stc-sketch-plugin/appcast",
     "description": "Responsive design for Sketch",
     "authorEmail" : "support@animaapp.com",
     "name" : "Auto Layout by Anima",
